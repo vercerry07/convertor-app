@@ -1,0 +1,31 @@
+.card12 {
+    height: 3rem;
+    width: 18rem;
+}
+
+.cardbody12 {
+    height: 10rem;
+    width: 18rem;
+
+}
+
+input {
+    padding-top: 0;
+    padding-left: 0;
+    line-height: 1em; 
+    text-align: center;
+    font-size: 40px !important;
+   }
+#op {
+    padding-top: 0;
+    padding-left: 0;
+    line-height: 1em; 
+    text-align: center;
+    font-size: 40px !important; 
+}
+
+   input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
